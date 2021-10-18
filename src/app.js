@@ -28,6 +28,7 @@ for (let i = 0; i < konutKredileri.length; i++) {
     <li>Konut Kredisi</li>
     .
     .
+    .
     */    
 }
 
